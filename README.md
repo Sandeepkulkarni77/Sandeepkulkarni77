@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kulkarni</h1>
+<h1 align="center">Welcome to my GitHub Profile ☁️</h1>
+<h2 align="center">Hi 👋, I'm Sandeep Kulkarni</h2>
+
 <h3 align="center">DevOps Engineer | Linux • Docker • Kubernetes • CI/CD • AWS • Automation</h3>
 
 <p align="center">
@@ -40,54 +42,6 @@
 
 ---
 
-## 📌 Featured Projects (DevOps Ready)
-
-### 🔹 CI/CD Pipeline with GitHub Actions
-✅ Build + Test + Deploy pipeline using GitHub Actions  
-🔧 Includes matrix strategy, caching, and best practices  
-📌 Repo: **matrix-strategy-for-parallel-testing-**
-
-### 🔹 Dockerized App Deployment
-✅ Containerized application with clean Dockerfile  
-🔧 Automated build + push + run workflow
-
-### 🔹 Kubernetes Deployment Setup
-✅ Deployments + Services + ConfigMaps  
-🔧 Designed for scalable app delivery
-
-> ⭐ I keep improving these projects to match real production workflows.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepkulkarni77&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepkulkarni77&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepkulkarni77&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🎯 What I’m Learning Now
-- Linux (permissions, processes, networking basics)
-- Shell Scripting (automation + monitoring scripts)
-- Docker (images, volumes, networking, multi-stage builds)
-- Kubernetes (deployments, services, ingress, troubleshooting)
-- Jenkins + GitHub Actions (CI/CD pipelines)
-- Ansible (configuration management)
-- Prometheus + Grafana (monitoring & alerting)
-- AWS (EC2, S3, IAM, VPC basics)
-
----
-
 ## 📬 Contact
 📧 Email: **sandeepkulkarni2003@gmail.com**
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
 
