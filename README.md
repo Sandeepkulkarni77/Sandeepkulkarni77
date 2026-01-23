@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile ☁️</h1>
 <h2 align="center">Hi 👋, I'm Sandeep Kulkarni</h2>
 
-<h3 align="center">DevOps Engineer | Linux • Docker • Kubernetes • CI/CD • AWS • Automation</h3>
 
 <p align="center">
   <a href="https://github.com/Sandeepkulkarni77">
