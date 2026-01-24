@@ -1,5 +1,7 @@
-<h1 align="center">Welcome to my GitHub Profile ☁️</h1>
-<h2 align="center">Hi 👋, I'm Sandeep Kulkarni</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=500&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sandeep+Kulkarni;Welcome+to+my+GitHub+Profile+%E2%98%81%EF%B8%8F&repeat=true&v=1" />
+</h1>
+
 
 
 <p align="center">
