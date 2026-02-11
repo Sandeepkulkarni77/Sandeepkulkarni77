@@ -30,7 +30,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
 ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
