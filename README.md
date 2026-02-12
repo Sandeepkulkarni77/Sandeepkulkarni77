@@ -15,7 +15,6 @@
 
 ## 🚀 About Me
 - 🎯 Focused on **DevOps / Cloud Engineering**
-- 🧠 Strong foundation in **Linux + Automation + CI/CD**
 - 🔥 Currently upskilling in **Linux, Shell Scripting, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Prometheus, Grafana, and AWS**
 - 📌 I like building systems that are **reliable, scalable, and production-ready**
 
