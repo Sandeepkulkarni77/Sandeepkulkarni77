@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sandeep+Kulkarni;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sandeep+Kulkarni!;Welcome+to+my+GitHub+Profile" />
 </p>
 
 ---
