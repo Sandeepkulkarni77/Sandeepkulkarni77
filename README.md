@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
-</div>
-
----
-
 <table>
 <tr>
 <td width="50%">
@@ -24,7 +18,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/animation_500_kxa883sd.gif" width="320"/>
 
 </td>
 </tr>
