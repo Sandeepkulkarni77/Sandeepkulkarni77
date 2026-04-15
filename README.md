@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Sandeep+Kulkarni;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Sandeep+Kulkarni;Welcome+to+my+GitHub+Profile" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </td>
 </tr>
