@@ -43,12 +43,6 @@
 
 ---
 
-## 📫 CONTACT
-
-- 📧 sandeepkulkarni2003@gmail.com  
-- 📱 +91 8971748386  
-- 🔗 https://linkedin.com/in/YOUR-LINK
-
 ## 📬 CONTACT
 
 - 📧 **sandeepkulkarni2003@gmail.com**
