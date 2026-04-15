@@ -18,7 +18,7 @@
 
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/animation_500_kxa883sd.gif" width="320"/>
+<img src="https://cdn.dribbble.com/users/1615584/screenshots/16552735/media/0a8f3b9a0b3a9b4c5e9b6c4dbead8d7a.gif" width="320"/>
 
 </td>
 </tr>
