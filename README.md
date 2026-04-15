@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=7A3EFF&center=true&vCenter=true&width=600&lines=Hi%2C+my+name+is+Sandeep+Kulkarni;Welcome+to+my+GitHub+Profile;DevOps+%7C+Cloud+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Sandeep+Kulkarni;Welcome+to+my+GitHub+Profile" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
 </div>
 
 ---
@@ -22,10 +22,11 @@
 
 </td>
 
-<td width="50%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-</td>
+<td width="50%" align="center">
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+
+</td>
 </tr>
 </table>
 
@@ -35,9 +36,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,githubactions" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ansible,prometheus,grafana,aws,terraform" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,githubactions,ansible,prometheus,grafana,aws,terraform" />
 </p>
 
 ---
@@ -61,7 +60,3 @@
 - 📧 **sandeepkulkarni2003@gmail.com**  
 - 📞 **+91 8971748386**  
 - 🔗 **[LinkedIn](https://linkedin.com/in/sandeep-kulkarni)**  
-
----
-
-<h3 align="center">💜 Thanks for visiting!</h3>
