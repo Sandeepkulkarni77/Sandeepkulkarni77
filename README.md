@@ -35,15 +35,12 @@
   <!-- Argo CD -->
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="48"/>
 
-  <!-- Gitea -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitea/gitea-original.svg" height="48"/>
+  <!-- gitea (works here) -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitea&theme=dark" />
 
 
   <img src="https://skillicons.dev/icons?i=prometheus" />
   <img src="https://skillicons.dev/icons?i=grafana" />
-
-  <!-- OpenObserve (fallback clean icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" height="48"/>
 
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=terraform" />
