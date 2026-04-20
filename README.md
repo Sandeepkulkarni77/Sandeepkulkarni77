@@ -67,7 +67,7 @@
 
 - 📧 **sandeepkulkarni2003@gmail.com**  
 - 📞 **+91 8971748386**  
-- 🔗 **[LinkedIn](https://linkedin.com/in/sandeep-kulkarni)**  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/sandeep-kulkarni-b8a69a29a/)**  
 
 ---
 
