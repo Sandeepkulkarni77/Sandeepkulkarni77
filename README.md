@@ -15,8 +15,7 @@
 - 🎯 Focused on **DevOps / Cloud Engineering**
 - 🔥 Upskilling in **Linux, Shell Scripting, Docker, Kubernetes, Jenkins, GitHub Actions, GitOps, Ansible, Prometheus, Grafana, AWS & Terraform**
 - 🛠️ Building systems that are **reliable, scalable & production-ready**
-- 🐧 Real-world Linux ops background: incident triage, load debugging and service availability on a large server fleet
-
+  
 ---
 
 ## 🧰 TECH STACK
