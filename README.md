@@ -31,19 +31,17 @@ Building systems that are **reliable, scalable & production-ready**
 &nbsp;
 <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/>
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitOps_Icon.svg" alt="GitOps" width="40" height="40"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/argo-cd.svg" alt="Argo CD" width="40" height="40"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="40" height="40"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 &nbsp;
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="45"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
 
 <br>
 
