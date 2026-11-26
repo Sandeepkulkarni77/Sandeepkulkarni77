@@ -21,43 +21,47 @@ Building systems that are **reliable, scalable & production-ready**
 <sub>DEVOPS & CLOUD</sub>
 <br>
 
-<img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" />
+<img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="Linux" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" alt="Kubernetes" />
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/jenkins" width="40" height="40" alt="Jenkins" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/>
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitOps_Icon.svg" width="40" height="40" alt="GitOps" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitOps_Icon.svg" alt="GitOps" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/ansible" width="40" height="40" alt="Ansible" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/prometheus" width="40" height="40" alt="Prometheus" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/argo-cd.svg" alt="Argo CD" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana" />
+<img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40" alt="AWS" />
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="40" height="40"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="40" height="40"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
 
 <br>
 
 <sub>PROGRAMMING</sub>
 <br>
 
-<img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/gnubash" width="40" height="40" alt="Shell Scripting (Bash)" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Shell Scripting" width="40" height="40"/>
 
 <br>
 
 <sub>VERSION CONTROL</sub>
 <br>
 
-<img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
 
 <br>
 
