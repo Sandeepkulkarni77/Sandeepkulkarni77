@@ -79,8 +79,10 @@ Building systems that are **reliable, scalable & production-ready**
 <a href="https://www.linkedin.com/in/sandeep-kulkarni-b8a69a29a/">LinkedIn</a>
 </p>
 
+<hr>
+
 <p align="center">
- ⚡ Always learning. Always building.
+⚡ <strong>Always learning. Always building.</strong>
 </p>
 
 </div>
