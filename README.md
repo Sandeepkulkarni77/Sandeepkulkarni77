@@ -39,7 +39,7 @@ Building systems that are **reliable, scalable & production-ready**
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="45"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FFFFFF" alt="AWS" width="40" height="40"/>
 &nbsp;
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
 
@@ -71,12 +71,16 @@ Building systems that are **reliable, scalable & production-ready**
 
 ## CONTACT
 
-<a href="mailto:sandeepkulkarni2003@gmail.com">sandeepkulkarni2003@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="tel:+918971748386">+91 8971748386</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sandeep-kulkarni-b8a69a29a/">LinkedIn</a>
+<p align="center">
+<a href="mailto:sandeepkulkarni2003@gmail.com">sandeepkulkarni2003@gmail.com</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="tel:+918971748386">+91 8971748386</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sandeep-kulkarni-b8a69a29a/">LinkedIn</a>
+</p>
 
-<br>
-
----
-
-⚡ **Always learning. Always building.**
+<p align="center">
+ ⚡ Always learning. Always building.
+</p>
 
 </div>
