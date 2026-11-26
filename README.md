@@ -16,14 +16,6 @@ Building systems that are **reliable, scalable & production-ready**
 
 <br>
 
-<sub>UPSKILLING IN</sub>
-
-<code>Linux</code>&nbsp;&nbsp;<code>Shell Scripting</code>&nbsp;&nbsp;<code>Docker</code>&nbsp;&nbsp;<code>Kubernetes</code>&nbsp;&nbsp;<code>Jenkins</code>&nbsp;&nbsp;<code>GitHub Actions</code>
-<br>
-<code>GitOps</code>&nbsp;&nbsp;<code>Ansible</code>&nbsp;&nbsp;<code>Prometheus</code>&nbsp;&nbsp;<code>Grafana</code>&nbsp;&nbsp;<code>AWS</code>&nbsp;&nbsp;<code>Terraform</code>
-
-<br>
-
 ## TECH STACK
 
 <sub>DEVOPS & CLOUD</sub>
@@ -41,6 +33,23 @@ Building systems that are **reliable, scalable & production-ready**
 <sub>VERSION CONTROL</sub>
 <br>
 <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+
+<br>
+
+## PIPELINE
+
+</div>
+
+```mermaid
+flowchart LR
+    A([Git]) --> B([GitHub Actions]) --> C([Docker]) --> D([Kubernetes]) --> E([Prometheus]) --> F([Grafana])
+
+    classDef neon fill:#0d1117,stroke:#ff0000,stroke-width:2px,color:#e6edf3
+    class A,B,C,D,E,F neon
+    linkStyle default stroke:#ff0000,stroke-width:2px
+```
+
+<div align="center">
 
 <br>
 
