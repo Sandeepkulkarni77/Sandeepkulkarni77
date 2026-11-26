@@ -20,34 +20,48 @@ Building systems that are **reliable, scalable & production-ready**
 
 <sub>DEVOPS & CLOUD</sub>
 <br>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,githubactions,ansible,prometheus,grafana,aws" alt="Linux, Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Prometheus, Grafana, AWS" />
+
+<img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" alt="Kubernetes" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/jenkins" width="40" height="40" alt="Jenkins" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitOps_Icon.svg" width="40" height="40" alt="GitOps" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/ansible" width="40" height="40" alt="Ansible" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus" width="40" height="40" alt="Prometheus" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/grafana" width="40" height="40" alt="Grafana" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40" alt="AWS" />
 
 <br>
 
 <sub>PROGRAMMING</sub>
 <br>
-<img src="https://skillicons.dev/icons?i=python,bash" alt="Python, Bash" />
+
+<img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash" width="40" height="40" alt="Shell Scripting (Bash)" />
 
 <br>
 
 <sub>VERSION CONTROL</sub>
 <br>
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+
+<img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
 
 <br>
 
-## PIPELINE
-
 </div>
-
-```mermaid
-flowchart LR
-    A([Git]) --> B([GitHub Actions]) --> C([Docker]) --> D([Kubernetes]) --> E([Prometheus]) --> F([Grafana])
-
-    classDef neon fill:#0d1117,stroke:#ff0000,stroke-width:2px,color:#e6edf3
-    class A,B,C,D,E,F neon
-    linkStyle default stroke:#ff0000,stroke-width:2px
-```
 
 <div align="center">
 
