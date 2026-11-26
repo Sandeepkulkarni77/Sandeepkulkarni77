@@ -82,7 +82,7 @@ Building systems that are **reliable, scalable & production-ready**
 <hr>
 
 <p align="center">
-⚡ <strong>Always learning. Always building.</strong>
+⚡ <strong>Always learning.  Always building.</strong>
 </p>
 
 </div>
