@@ -39,7 +39,7 @@ Building systems that are **reliable, scalable & production-ready**
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Sandeepkulkarni77/OpsFusion-Platform/main/aws-logo.svg" alt="AWS" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
 
 <br>
